@@ -16176,7 +16176,7 @@
                                 }), (0, d.jsx)(et, {}), (0, d.jsx)(c.HistoryPlugin, {})]
                             })]
                         })]
-                    }), (0, d.jsxs)("footers", {
+                    }), (0, d.jsxs)("footer", {
                         children: [(0, d.jsxs)("p", {
                             children: ["", " ", (0, d.jsx)("a", {
                                 href: "",
