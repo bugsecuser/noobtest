@@ -16178,13 +16178,13 @@
                         })]
                     }), (0, d.jsxs)("footer", {
                         children: [(0, d.jsxs)("p", {
-                            children: ["", " ", (0, d.jsx)("a", {
-                                href: "",
-                                children: ""
+                            children: ["This is a beta version. Please", " ", (0, d.jsx)("a", {
+                                href: "https://docs.google.com/forms/d/e/1FAIpQLSeDai_1_mYiW_INtW8hJsGOtviMNo965tyVJ7GKdZq9NHBfYg/viewform?usp=pp_url&entry.128078036=Malayalam",
+                                children: "share your feedback"
                             }), "."]
                         }), (0, d.jsx)("p", {
-                            className: "",
-                            children: ""
+                            className: "copyright",
+                            children: "\xa9 ClusterDev"
                         })]
                     })]
                 })
