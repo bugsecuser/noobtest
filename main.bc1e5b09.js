@@ -1,4 +1,4 @@
- ! function() {
+/*! For license information please see main.bc1e5b09.js.LICENSE.txt */ ! function() {
     var e = {
             2357: function(e, t, n) {
                 "use strict";
@@ -16176,6 +16176,16 @@
                                 }), (0, d.jsx)(et, {}), (0, d.jsx)(c.HistoryPlugin, {})]
                             })]
                         })]
+                    }), (0, d.jsxs)("footer", {
+                        children: [(0, d.jsxs)("p", {
+                            children: ["", " ", (0, d.jsx)("a", {
+                                href: "",
+                                children: ""
+                            }), "."]
+                        }), (0, d.jsx)("p", {
+                            className: "",
+                            children: ""
+                        })]
                     })]
                 })
             }
@@ -16200,3 +16210,4 @@
             })), ot()
         }()
 }();
+//# sourceMappingURL=main.bc1e5b09.js.map
