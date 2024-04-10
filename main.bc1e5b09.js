@@ -16160,7 +16160,7 @@
                         children: [(0, d.jsx)("header", {
                             children: (0, d.jsx)("img", {
                                 src: f,
-                                alt: "Manglish"
+                                alt: ""
                             })
                         }), (0, d.jsxs)("div", {
                             className: "editor-shell",
@@ -16178,13 +16178,13 @@
                         })]
                     }), (0, d.jsxs)("footer", {
                         children: [(0, d.jsxs)("p", {
-                            children: ["This is a beta version. Please", " ", (0, d.jsx)("a", {
-                                href: "https://docs.google.com/forms/d/e/1FAIpQLSeDai_1_mYiW_INtW8hJsGOtviMNo965tyVJ7GKdZq9NHBfYg/viewform?usp=pp_url&entry.128078036=Malayalam",
-                                children: "share your feedback"
+                            children: ["", " ", (0, d.jsx)("a", {
+                                href: "",
+                                children: ""
                             }), "."]
                         }), (0, d.jsx)("p", {
-                            className: "copyright",
-                            children: "\xa9 ClusterDev"
+                            className: "",
+                            children: "\xa9 "
                         })]
                     })]
                 })
